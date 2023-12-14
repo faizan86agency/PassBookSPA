@@ -1,4 +1,4 @@
-import BuilderForm from "./components/builderForm";
+import BuilderForm from "./components/BuilderForm";
 
 function App() {
   return (
